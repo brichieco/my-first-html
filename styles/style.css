@@ -1,0 +1,51 @@
+
+*{
+  margin: auto;
+  text-align:center;
+  vertical-align: middle;
+}
+ body {
+  background-image: linear-gradient(white, #613fde);
+ }
+ h1 {
+   font-family: 'Notable', 'Montserat', helvetica, sans-serif;
+   color:blue;
+   background-color:white;
+   height:90px;
+ }
+ img{
+   margin: auto;
+   display: block;
+ }
+nav {
+  font-family: 'Notable', sans-serif;
+  vertical-align:middle;
+  font-style: italic;
+}
+nav a{
+  margin-left: 20px;
+}
+nav a:hover{
+  background-color: yellow;
+}
+.bold-text{
+font-weight:bold;
+}
+p {
+  font-size: 30px;
+  font-family: 'Montserat', sans-serif;
+}
+#nav-bar {
+background-color:limegreen;
+margin:auto;
+text-align:center;
+height: 50px;
+
+}
+footer p {
+  font-weight:bolder;
+  color:white;
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-align: right;
+}
